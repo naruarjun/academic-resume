@@ -26,7 +26,7 @@ interests:
 # Education to show in About widget
 #education:
 #  courses:
-#  - course: B.Tech in Computer Science and Engineering
+#  - course:  B.Tech in Computer Science and Engineering
 #    institution: Manipal Institute of Technology
 #    year: 2020
 #  - course: MEng in Artificial Intelligence
