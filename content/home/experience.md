@@ -38,7 +38,7 @@ experience:
         * Created ROS nodes for deploying these detectors on a Jetson AGX Xavier as part of the autonomousstack of the car using Torchscript and OpenCV.
         * Currently benchmarking and hypothesizing multi-task models for object detection, lane detection and object tracking.
         * Settign up infrastructure for scenario-based performance and safety testing of the perception stack.
-        
+experience:        
   - title: Student Trainee
     company: Samsung R&D Institute India - Bangalore Pvt. Ltd.
     company_url: ''
@@ -52,7 +52,7 @@ experience:
         * Brought up the Near Real-Time RAN Intelligence Controller(RIC) Kubernetes cluster.
         * Established connection between Near Real-Time RIC cluster and RIC dashboard to facilitate deployment of xApps and creation of new policies.
         * Wrote xApp components to achieve communication between xApp and the Near Real-Time RIC A1-Mediator via RIC Message RouterAPIs to facilitate movement of policies across the cluster components.
-
+experience:
   - title: Research Intern
     company: Robotics Research Center, IIIT Hyderabad
     company_url: ''
@@ -62,6 +62,7 @@ experience:
     date_end: 'Jul 2019'
     description: Created a ROS-aware Gazebo plugin to incorporate path planning for actors in Gazebo. The actor is treated as a mobile base by the plugin. The costmap is  retrieved via the costmap\_2d node. The A-star algorithm is then applied on the retrieved costmap for generating paths via the navfn package.
 
+experience:
   - title: Data Science Intern
     company: Symbl.ai(Formerly known as Rammer.ai)
     company_url: ''
