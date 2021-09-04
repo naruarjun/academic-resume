@@ -29,7 +29,7 @@ item:
   description: " 
         Worked on several parts of the autonomous driving software stack. The projects along with their github links are listed below. For detailed information on the projects, please refer to the repositories.
 hdcsbjhsdc
-cdsbsjhdbhjs
+cdsbsjhdbhjs"
 #        * Lane Detection [<a href="https://github.com/naruarjun/CarND-Advanced-Lane-Lines">github</a>]
 #        * Traffic Sign Classifier [<a href=""></a>]
 #        * State Estimation using a Extended Kalman Filter [<a href="https://github.com/naruarjun/CarND-Extended-Kalman-Filter-Project">github</a>]
