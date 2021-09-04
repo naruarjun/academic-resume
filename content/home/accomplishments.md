@@ -31,7 +31,7 @@ item:
         
         * Lane Detection [<a href="https://github.com/naruarjun/CarND-Advanced-Lane-Lines">github</a>]
         
-        * Traffic Sign Classifier [<a href="https://github.com/naruarjun/CarND-Traffic-Sign-Classifier-Project"></a>]
+        * Traffic Sign Classifier [<a href="https://github.com/naruarjun/CarND-Traffic-Sign-Classifier-Project">github</a>]
         
         * State Estimation using a Extended Kalman Filter [<a href="https://github.com/naruarjun/CarND-Extended-Kalman-Filter-Project">github</a>]
         
