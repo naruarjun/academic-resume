@@ -23,29 +23,23 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://confirm.udacity.com/WHD9LG6G
   date_end: ""
-  date_start: "2021-01-25"
-  description: ""
+  date_start: "2021-06-14"
+  description: |2-
+	Worked on several parts of the autonomous driving software stack. The projects along with their github links are listed below. For detailed information on the projects, please refer to the repositories.
+
+	* Lane Detection [<a href="https://github.com/naruarjun/CarND-Advanced-Lane-Lines">github</a>]
+	* Traffic Sign Classifier [<a href=""></a>]
+	* State Estimation using a Extended Kalman Filter [<a href="https://github.com/naruarjun/CarND-Extended-Kalman-Filter-Project">github</a>]
+	* Behavioral Cloning [<a href="https://github.com/naruarjun/CarND-Behavioral-Cloning-P3">github</a>]
+	* Localization [<a href="https://github.com/naruarjun/CarND-Kidnapped-Vehicle-Project">github</a>]
+	* Finite State Machine based Path Planning [<a href="https://github.com/naruarjun/CarND-Path-Planning-Project">github</a>]
+	* PID Controller [<a href="https://github.com/naruarjun/CarND-PID-Control-Project">github</a>]
+	* Capstone Project [<a href="https://github.com/naruarjun/CarND-Capstone">github</a>]
   organization: Coursera
   organization_url: https://www.coursera.org
   title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
   url: ""
 
 design:
