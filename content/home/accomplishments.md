@@ -31,7 +31,7 @@ item:
         
         * Lane Detection [<a href="https://github.com/naruarjun/CarND-Advanced-Lane-Lines">github</a>]
         
-        * Traffic Sign Classifier [<a href=""></a>]
+        * Traffic Sign Classifier [<a href="https://github.com/naruarjun/CarND-Traffic-Sign-Classifier-Project"></a>]
         
         * State Estimation using a Extended Kalman Filter [<a href="https://github.com/naruarjun/CarND-Extended-Kalman-Filter-Project">github</a>]
         
@@ -45,7 +45,7 @@ item:
         
         * Capstone Project [<a href="https://github.com/naruarjun/CarND-Capstone">github</a>]
   organization: Udacity
-  organization_url: https://www.udacity.org
+  organization_url: https://www.udacity.com
   title: Self Driving Car Engineering Nanodegree
   url: ""
 
