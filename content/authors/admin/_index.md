@@ -72,7 +72,7 @@ email: ""
 highlight_name: false
 ---
 
-I am currently working as a Research Assistant at the IIITD ALIVE project under the guidance of Saket Anand, Jainendra Shukla and Rajeev Ratn Shah. My aim is to facilitate the conceptualization and deployment of complex computer vision systems that can handle real-world uncertainty and are compact and efficient.
+I am currently working as a Research Assistant at the <a herf="https://sites.google.com/iiitd.ac.in/iiitd-alive">IIITD ALIVE project</a> under the guidance of <a href="https://www.iiitd.ac.in/anands">Saket Anand</a>, <a href="https://www.iiitd.ac.in/jainendra">Jainendra Shukla</a> and <a href="https://www.iiitd.ac.in/rajivratn">Rajiv Ratn Shah</a>. My aim is to facilitate the conceptualization and deployment of complex computer vision systems that can handle real-world uncertainty and are compact and efficient.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
