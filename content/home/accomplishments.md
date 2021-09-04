@@ -26,7 +26,7 @@ item:
 - certificate_url: https://confirm.udacity.com/WHD9LG6G
   date_end: ""
   date_start: "2021-06-14"
-  description: " 
+  description: " |2- 
         Worked on several parts of the autonomous driving software stack. The projects along with their github links are listed below. For detailed information on the projects, please refer to the repositories.
 hdcsbjhsdc
 cdsbsjhdbhjs"
