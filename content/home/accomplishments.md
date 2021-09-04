@@ -47,7 +47,7 @@ item:
   organization: Udacity
   organization_url: https://www.udacity.com
   title: Self Driving Car Engineering Nanodegree
-  url: ""
+  url: "https://www.udacity.com"
 
 design:
   columns: '2' 
