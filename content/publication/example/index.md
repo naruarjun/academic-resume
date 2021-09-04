@@ -1,12 +1,17 @@
 ---
-title: "An example conference paper"
+title: "SpeechMix - Augmenting Deep Sound Recognition using Hidden Space Interpolations"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Amit Jindal
 - admin
-- Robert Ford
+- Aniket Didolkar
+- Arijit Ghosh Chowdhury
+- Di Jin
+- Ramit Sawhney
+- Rajiv Ratn Shah
 
 # Author notes (optional)
 author_notes:
@@ -17,7 +22,7 @@ date: "2013-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-07-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,13 +31,12 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *INTERSPEECH 2020*
+publication_short: In *INTERSPEECH*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
+abstact:This paper presents SpeechMix, a regularization and data augmentation technique for deep sound recognition. Our strategy is to create virtual training samples by interpolating speech samples in hidden space. SpeechMix has the potential to generate an infinite number of new augmented speech samples since the combination of speech samples is continuous. Thus, it allows downstream models to avoid overfitting drastically. Unlike other mixing strategies that only work on the input space, we apply our method on the intermediate layers to capture a broader representation of the feature space. Through an extensive quantitative evaluation, we demonstrate the effectiveness of SpeechMix in comparison to standard learning regimes and previously applied mixing strategies. Furthermore, we highlight how different hidden layers contribute to the improvements in classification using an ablation study.
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
@@ -42,7 +46,7 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: http://example.org
+#   url: 
 
 url_pdf: ''
 url_code: ''
@@ -65,15 +69,15 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+#projects:
+#- example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
 
 {{% callout note %}}
