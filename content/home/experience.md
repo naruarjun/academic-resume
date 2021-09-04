@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant, Vision & Learning
     company: IIITD Autonomous Last mIle VEhicle (ALIVE)
     company_url: 'https://sites.google.com/iiitd.ac.in/iiitd-alive'
-    company_logo: "iiitd.png"
+    company_logo: org-gc
     location: Delhi
     date_start: '2020-10-19'
     date_end: ''
@@ -42,7 +42,7 @@ experience:
   - title: Student Trainee
     company: Samsung R&D Institute India - Bangalore Pvt. Ltd.
     company_url: ''
-    company_logo: org-x
+    company_logo: samsung
     location: Bangalore
     date_start: '2020-01-06'
     date_end: '2020-06-18'
