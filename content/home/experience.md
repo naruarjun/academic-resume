@@ -27,7 +27,7 @@ experience:
     company_url: 'https://sites.google.com/iiitd.ac.in/iiitd-alive'
     company_logo: org-gc
     location: Delhi
-    date_start: 'Oct 2020'
+    date_start: '2020-10-19'
     date_end: ''
     description: |2-
         Working on the development and testing of the Perception software stack for the autonomous vehicle:
@@ -44,8 +44,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Bangalore
-    date_start: 'Jan 2020'
-    date_end: 'Jun 2020'
+    date_start: '2020-01-06'
+    date_end: '2020-06-18'
     description: |2-
         Worked on the development of Near Real-Time RAN Intelligence Controller (RIC)
 
@@ -58,8 +58,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Hyderabad
-    date_start: 'May 2019'
-    date_end: 'Jul 2019'
+    date_start: '2019-05-15'
+    date_end: '2019-05-15'
     description: Created a ROS-aware Gazebo plugin to incorporate path planning for actors in Gazebo. The actor is treated as a mobile base by the plugin. The costmap is  retrieved via the costmap\_2d node. The A-star algorithm is then applied on the retrieved costmap for generating paths via the navfn package.
 
 experience:
@@ -68,8 +68,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Pune, Maharashtra
-    date_start: 'Dec 2018'
-    date_end: 'Jan 2018'
+    date_start: '2018-12-01'
+    date_end: '2019-01-03'
     description: |2-
         Worked on using deep neural networks for Natural Language Processing
 
