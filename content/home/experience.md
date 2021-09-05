@@ -42,7 +42,7 @@ experience:
   - title: Student Trainee
     company: Samsung R&D Institute India - Bangalore Pvt. Ltd.
     company_url: ''
-    company_logo: org-gc
+    company_logo: samsung
     location: Bangalore
     date_start: '2020-01-06'
     date_end: '2020-06-18'
