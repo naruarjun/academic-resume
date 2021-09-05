@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant, Vision & Learning
     company: IIITD Autonomous Last mIle VEhicle (ALIVE)
     company_url: 'https://sites.google.com/iiitd.ac.in/iiitd-alive'
-    image_url: "https://www.iiitd.ac.in/sites/default/files/images/logo/logo.jpg"
+    company_logo: "https://www.iiitd.ac.in/sites/default/files/images/logo/logo.jpg"
     location: Delhi
     date_start: '2020-10-19'
     date_end: ''
