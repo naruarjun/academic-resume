@@ -1,6 +1,6 @@
 ---
 title: Behaviour Cloning 
-summary: Trained a convolution neural network based on a variant of the LeNet architecture.  Collected drivingdata for regular driving as well as recovery data on a simulator to teach the car to track lane centers.
+summary: Trained a convolution neural network based on a variant of the LeNet architecture. Collected driving data for regular driving as well as recovery data on a simulator to teach the car to track lane centers.
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
@@ -17,7 +17,7 @@ external_link: ""
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-url_code: "https://github.com/naruarjun/Adversarial-Mixup-Resynthesis"
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -29,4 +29,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-Trained a convolution neural network based on a variant of the LeNet architecture.  Collected drivingdata for regular driving as well as recovery data on a simulator to teach the car to track lane centers.
+Trained a convolution neural network based on a variant of the LeNet architecture. Collected driving data for regular driving as well as recovery data on a simulator to teach the car to track lane centers.
