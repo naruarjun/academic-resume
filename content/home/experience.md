@@ -56,7 +56,7 @@ experience:
   - title: Research Intern
     company: Robotics Research Center, IIIT Hyderabad
     company_url: ''
-    company_logo: org-x
+    company_logo: iiith
     location: Hyderabad
     date_start: '2019-05-15'
     date_end: '2019-05-15'
