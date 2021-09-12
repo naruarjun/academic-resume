@@ -1,6 +1,6 @@
 ---
-title: CodeFlood - Road Segmentation using satellite images
-summary: Trained a Dilated U-net for segmentation of roads in satellite images collected via the MapBox API.Used this output to detect flooded areas.  Built a website to speed up relief operations during floods aspart of our submission for Codefundo 2018.
+title: PyTorch Implementation of Adversarial Mixup Resynthesis 
+summary: Implemented the model presented in the paper - On Adversarial Mixup Resynthesis.  Reproduced resultson MNIST, KMNIST and SVHN datasets.
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
@@ -17,7 +17,7 @@ external_link: ""
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-url_code: "https://github.com/dido1998/codefundo-2018"
+url_code: "https://github.com/naruarjun/Adversarial-Mixup-Resynthesis"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -29,6 +29,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-Trained a Dilated U-net for segmentation of roads in satellite images collected via the MapBox API.Used this output to detect flooded areas.  Built a website to speed up relief operations during floods aspart of our submission for Codefundo 2018.
-
+Implemented the model presented in the paper - On Adversarial Mixup Resynthesis.  Reproduced resultson MNIST, KMNIST and SVHN datasets.
 
