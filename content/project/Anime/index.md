@@ -17,7 +17,7 @@ external_link: ""
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-url_code: "https://github.com/naruarjun/Adversarial-Mixup-Resynthesis"
+url_code: "https://github.com/naruarjun/AnimeFacesGAN"
 url_pdf: ""
 url_slides: ""
 url_video: ""
