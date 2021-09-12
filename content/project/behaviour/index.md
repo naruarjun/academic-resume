@@ -27,6 +27,6 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#slides: example
 ---
 Trained a convolution neural network based on a variant of the LeNet architecture. Collected driving data for regular driving as well as recovery data on a simulator to teach the car to track lane centers.

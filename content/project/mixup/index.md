@@ -1,6 +1,6 @@
 ---
 title: PyTorch Implementation of Adversarial Mixup Resynthesis 
-summary: Implemented the model presented in the paper - On Adversarial Mixup Resynthesis.  Reproduced resultson MNIST, KMNIST and SVHN datasets.
+summary: Implemented the model presented in the paper - On Adversarial Mixup Resynthesis. Reproduced results on MNIST, KMNIST and SVHN datasets.
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
@@ -27,7 +27,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#slides: example
 ---
-Implemented the model presented in the paper - On Adversarial Mixup Resynthesis.  Reproduced resultson MNIST, KMNIST and SVHN datasets.
+Implemented the model presented in the paper - On Adversarial Mixup Resynthesis.  Reproduced result son MNIST, KMNIST and SVHN datasets.
 
