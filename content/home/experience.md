@@ -65,7 +65,7 @@ experience:
   - title: Data Science Intern
     company: Symbl.ai(Formerly known as Rammer.ai)
     company_url: ''
-    company_logo: org-x
+    company_logo: symbl
     location: Pune, Maharashtra
     date_start: '2018-12-01'
     date_end: '2019-01-03'
