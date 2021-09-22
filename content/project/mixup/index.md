@@ -29,5 +29,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-Implemented the model presented in the paper - <a href="https://arxiv.org/abs/1903.02709">On Adversarial Mixup Resynthesis</a>.  Reproduced result son MNIST, KMNIST and SVHN datasets.
+Implemented the model presented in the paper - On Adversarial Mixup Resynthesis.  Reproduced results on MNIST, KMNIST and SVHN datasets.
 

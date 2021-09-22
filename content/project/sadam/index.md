@@ -29,5 +29,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-Reproducibility study carried out on the paper <a href="https://openreview.net/forum?id=rye5YaEtPr">SAdam: A Variant of Adam for Strongly Convex Functions</a> as part of the ML Reproducibility Challenge 2020.
+Reproducibility study carried out on the paper SAdam: A Variant of Adam for Strongly Convex Functions as part of the ML Reproducibility Challenge 2020.
 
