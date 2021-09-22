@@ -1,6 +1,6 @@
 ---
 title: PyTorch Implementation of Adversarial Mixup Resynthesis 
-summary: Implemented the model presented in the paper - <a href="https://arxiv.org/abs/1903.02709">On Adversarial Mixup Resynthesis</a>. Reproduced results on MNIST, KMNIST and SVHN datasets.
+summary: Implemented the model presented in the paper - On Adversarial Mixup Resynthesis. Reproduced results on MNIST, KMNIST and SVHN datasets.
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
