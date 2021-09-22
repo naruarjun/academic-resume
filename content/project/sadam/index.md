@@ -1,6 +1,6 @@
 ---
-title: PyTorch Implementation of Adversarial Mixup Resynthesis 
-summary: Implemented the model presented in the paper - <a href="https://arxiv.org/abs/1903.02709">On Adversarial Mixup Resynthesis</a>. Reproduced results on MNIST, KMNIST and SVHN datasets.
+title: PyTorch Implementation of SAdam 
+summary: Reproducibility study carried out on the paper <a href="https://openreview.net/forum?id=rye5YaEtPr">SAdam: A Variant of Adam for Strongly Convex Functions</a> as part of the ML Reproducibility Challenge 2020.
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
@@ -17,7 +17,7 @@ external_link: ""
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-url_code: "https://github.com/naruarjun/Adversarial-Mixup-Resynthesis"
+url_code: "https://github.com/naruarjun/SADAM-reproducibility"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -29,5 +29,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-Implemented the model presented in the paper - <a href="https://arxiv.org/abs/1903.02709">On Adversarial Mixup Resynthesis</a>.  Reproduced result son MNIST, KMNIST and SVHN datasets.
+Reproducibility study carried out on the paper <a href="https://openreview.net/forum?id=rye5YaEtPr">SAdam: A Variant of Adam for Strongly Convex Functions</a> as part of the ML Reproducibility Challenge 2020.
 
