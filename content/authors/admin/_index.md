@@ -76,4 +76,4 @@ I am currently working as a Research Assistant at the <a href="https://sites.goo
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-P.S. The project section is a little below-par at the moment as the content filtering feature is not working that well. I will fix it in the coming few weeks whenever I get time. Thanks for understanding.
+P.S. The project section is a little below-par at the moment as the projects have associated description pages but those pages contain the same description as the home page. I will fix it in the coming few weeks whenever I get time. Thanks for understanding.
