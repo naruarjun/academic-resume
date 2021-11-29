@@ -59,7 +59,7 @@ experience:
     company_logo: iiith
     location: Hyderabad
     date_start: '2019-05-15'
-    date_end: '2019-05-15'
+    date_end: '2019-07-15'
     description: Created a ROS-aware Gazebo plugin to incorporate path planning for actors in Gazebo. The actor is treated as a mobile base by the plugin. The costmap is  retrieved via the costmap\_2d node. The A-star algorithm is then applied on the retrieved costmap for generating paths via the navfn package.
 
   - title: Data Science Intern
