@@ -35,7 +35,7 @@ experience:
         * Worked on the camera-based object detection, traffic light detection and classification and tracking module.
         * Setup infrastructure for benchmarking several state-of-the-art 2D object detectors on autonomous driving datasets such as BDD100K.
         * Created a novel metric for evaluating detection of traffic lights as a function of the distance to the traffic light.
-        * Created ROS nodes for deploying these detectors on a Jetson AGX Xavier as part of the autonomousstack of the car using Torchscript and OpenCV.
+        * Created ROS nodes for deploying these detectors on a Jetson AGX Xavier as part of the autonomous stack of the car using Torchscript and OpenCV.
         * Currently benchmarking and hypothesizing multi-task models for object detection, lane detection and object tracking.
         * Settign up infrastructure for scenario-based performance and safety testing of the perception stack.
 
