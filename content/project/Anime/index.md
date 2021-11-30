@@ -29,4 +29,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-Created a GAN that is able to generate faces of Anime Characters. Used a crawler coded in pythonthat collects anime character faces from various sources across the internet. Coded a WGAN in tensorflow and fit it to the data generated via the crawler.
+Created a GAN that is able to generate faces of Anime Characters. Used a crawler coded in python that collects anime character faces from various sources across the internet. Coded a WGAN in tensorflow and fit it to the data generated via the crawler.
