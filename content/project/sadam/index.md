@@ -1,6 +1,6 @@
 ---
 title: PyTorch Implementation of SAdam 
-summary: Reproducibility study carried out on the paper SAdam: A Variant of Adam for Strongly Convex Functions as part of the ML Reproducibility Challenge 2020.
+summary: "Reproducibility study carried out on the paper SAdam: A Variant of Adam for Strongly Convex Functions as part of the ML Reproducibility Challenge 2020."
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
