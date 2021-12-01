@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Work Experience
 subtitle:
 
 # Date format for experience
@@ -32,12 +32,13 @@ experience:
     description: |2-
         Working on the development and testing of the Perception software stack for the autonomous vehicle:
     
-        * Worked on the camera-based object detection, traffic light detection and classification and tracking module.
-        * Setup infrastructure for benchmarking several state-of-the-art 2D object detectors on autonomous driving datasets such as BDD100K.
-        * Created a novel metric for evaluating detection of traffic lights as a function of the distance to the traffic light.
-        * Created ROS nodes for deploying these detectors on a Jetson AGX Xavier as part of the autonomous stack of the car using Torchscript and OpenCV.
-        * Currently benchmarking and hypothesizing multi-task models for object detection, lane detection and object tracking.
-        * Settign up infrastructure for scenario-based performance and safety testing of the perception stack.
+        * Created camera-based object detection and tracking module.
+        * Created camera-based traffic light detection and tracking module.
+        * Setup infrastructure for benchmarking several state-of-the-art 2D object detectors on autonomous driving datasets such as BDD100K and Indian Driving Dataset.
+        * Created ROS nodes for deploying these detectors on a Jetson AGX Xavier as part of the autonomous stack of the car using Torchscript and OpenCV with a frame rate of 22 FPS.
+        * Position and speed of detected objects were estimated by fusing Camera and LIDAR data using a Kalman Filter and calibration information.
+        * Created a Traffic Light color classifier using Gaussian Mixture Models.
+        * Working on an annotation tool that uses calibration information to facilitate multi-sensor annotation.
 
   - title: Student Trainee
     company: Samsung R&D Institute India - Bangalore Pvt. Ltd.
@@ -51,7 +52,9 @@ experience:
 
         * Brought up the Near Real-Time RAN Intelligence Controller(RIC) Kubernetes cluster.
         * Established connection between Near Real-Time RIC cluster and RIC dashboard to facilitate deployment of xApps and creation of new policies.
-        * Wrote xApp components to achieve communication between xApp and the Near Real-Time RIC A1-Mediator via RIC Message RouterAPIs to facilitate movement of policies across the cluster components.
+        * Wrote xApp components to communicate between xApp and the Near Real-Time RIC A1-Mediator.
+        * Used RIC Message Router APIs to facilitate movement of policies across the cluster components.
+        * Created Helm charts and Docker images for the xApps.
 
   - title: Research Intern
     company: Robotics Research Center, IIIT Hyderabad
@@ -72,8 +75,11 @@ experience:
     description: |2-
         Worked on using deep neural networks for Natural Language Processing
 
-        * Extracted ’action items’ and filtered out chit-chat in speech to text data gathered from meetings via a text classification model.
+        * Extracted 'action items' and filtered out chit-chat from meeting transcripts.
         * Trained Bidirectional GRU with attention mechanism for punctuation restoration model.
+        * Designed and trained a two-layer GRU model in Keras to classify an input sentence as relevant or not.
+        * Augmented training data by analyzing constituency tree and part-of-speech tags and inserting synonyms.
+        * Used Google Sentence Encoder to extract sentences with the same semantic meaning by using similarity metrics such as a cosine similarity for targeted training.
 
 design:
   columns: '2'
