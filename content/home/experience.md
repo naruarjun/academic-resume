@@ -25,7 +25,7 @@ experience:
   - title: Open Source Contributor
     company: Google Summer of Code @ Open3D 
     company_url: 'http://www.open3d.org'
-    company_logo: gsoc2
+    company_logo: gsoc
     location: Remote
     date_start: '2022-06-12'
     date_end: '2022-09-12'
