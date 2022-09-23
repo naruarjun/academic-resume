@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Open Source COntributor
+  - title: Open Source Contributor
     company: Google Summer of Code @ Open3D 
     company_url: 'http://www.open3d.org'
     company_logo: gsoc2
