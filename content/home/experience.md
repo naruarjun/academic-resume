@@ -22,6 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Open Source COntributor
+    company: Google Summer of Code @ Open3D 
+    company_url: 'http://www.open3d.org'
+    company_logo: gsoc
+    location: Remote
+    date_start: '2022-06-12'
+    date_end: '2022-09-12'
+    description: |2-
+        Working on the development and testing of the Perception software stack for the autonomous vehicle:
+    
+        * Test
+
   - title: Research Assistant, Vision & Learning
     company: IIITD Autonomous Last mIle VEhicle (ALIVE)
     company_url: 'https://sites.google.com/iiitd.ac.in/iiitd-alive'
