@@ -25,14 +25,12 @@ experience:
   - title: Open Source COntributor
     company: Google Summer of Code @ Open3D 
     company_url: 'http://www.open3d.org'
-    company_logo: gsoc
+    company_logo: gsoc2
     location: Remote
     date_start: '2022-06-12'
     date_end: '2022-09-12'
     description: |2-
-        Working on the development and testing of the Perception software stack for the autonomous vehicle:
-    
-        * Test
+        Implemented the 3D Object detection model - PV-RCNN++ - in PyTorch and TensorFlow and training it on large-scale datasets such as the Waymo Driving Dataset to reproduce the original author’s results. The Pull Request is undergoing code-review.
 
   - title: Research Assistant, Vision & Learning
     company: IIITD Autonomous Last mIle VEhicle (ALIVE)
